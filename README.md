@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abhishekyadav26
-- 👀 I’m interested in web3.0
+- 👋 Hi, I’m @Abhishek Kumar Yadav
+- 👀 I’m interested in web3.0 technology
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on open source
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me aky732244@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
