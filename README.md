@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek Kumar Yadav
-- 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Blockchain technology and in building valuable software
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me aky732244@gmail.com
 - 😄 Pronouns: ...
