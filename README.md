@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web3 space <br>🌱 I’m currently learning Next Js <br>💬 Ask me about blockchain frountend part <br>
+🔭 I’m currently working on web3 space <br>🌱 I’m currently learning Next Js <br>
 
 
 ## 🌐 Socials:
